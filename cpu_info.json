@@ -1,0 +1,90 @@
+[
+	{
+		"model": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+		"speed": 2419,
+		"times": {
+			"user": 10029890,
+			"nice": 0,
+			"sys": 6168890,
+			"idle": 78727312,
+			"irq": 2160406
+		}
+	},
+	{
+		"model": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+		"speed": 2419,
+		"times": {
+			"user": 6898078,
+			"nice": 0,
+			"sys": 3119750,
+			"idle": 84907750,
+			"irq": 415656
+		}
+	},
+	{
+		"model": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+		"speed": 2419,
+		"times": {
+			"user": 10189250,
+			"nice": 0,
+			"sys": 3115484,
+			"idle": 81620843,
+			"irq": 60562
+		}
+	},
+	{
+		"model": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+		"speed": 2419,
+		"times": {
+			"user": 7519562,
+			"nice": 0,
+			"sys": 2234421,
+			"idle": 85171593,
+			"irq": 38578
+		}
+	},
+	{
+		"model": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+		"speed": 2419,
+		"times": {
+			"user": 9722453,
+			"nice": 0,
+			"sys": 2655703,
+			"idle": 82547421,
+			"irq": 51125
+		}
+	},
+	{
+		"model": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+		"speed": 2419,
+		"times": {
+			"user": 6637859,
+			"nice": 0,
+			"sys": 2410015,
+			"idle": 85877703,
+			"irq": 42406
+		}
+	},
+	{
+		"model": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+		"speed": 2419,
+		"times": {
+			"user": 9262140,
+			"nice": 0,
+			"sys": 2510031,
+			"idle": 83153406,
+			"irq": 47984
+		}
+	},
+	{
+		"model": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+		"speed": 2419,
+		"times": {
+			"user": 7034171,
+			"nice": 0,
+			"sys": 1887515,
+			"idle": 86003890,
+			"irq": 33625
+		}
+	}
+]
